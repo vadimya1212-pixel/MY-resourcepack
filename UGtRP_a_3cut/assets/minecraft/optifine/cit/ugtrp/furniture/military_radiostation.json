@@ -1,0 +1,108 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [48, 32],
+	"textures": {
+		"0": "./military_radiostation",
+		"particle": "./military_radiostation"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 6],
+			"to": [16, 13, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 5.33333, 6.5], "texture": "#0"},
+				"east": {"uv": [5.33334, 0, 8.66666, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 6.5, 5.33333, 13], "texture": "#0"},
+				"west": {"uv": [5.33333, 0, 8.66667, 6.5], "texture": "#0"},
+				"up": {"uv": [8.66667, 0, 14, 5], "texture": "#0"},
+				"down": {"uv": [8.66667, 5, 14, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16.25, 3, 9],
+			"to": [16.25, 9, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 5.33333, 6.5], "texture": "#0"},
+				"east": {"uv": [14, 0, 15.33333, 3], "texture": "#0"},
+				"south": {"uv": [0, 6.5, 5.33333, 13], "texture": "#0"},
+				"west": {"uv": [14, 0, 15.33333, 3], "texture": "#0"},
+				"up": {"uv": [8.66667, 0, 14, 5], "texture": "#0"},
+				"down": {"uv": [8.66667, 5, 14, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.25, 3, 9],
+			"to": [-0.25, 9, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 5.33333, 6.5], "texture": "#0"},
+				"east": {"uv": [14, 0, 15.33333, 3], "texture": "#0"},
+				"south": {"uv": [0, 6.5, 5.33333, 13], "texture": "#0"},
+				"west": {"uv": [14, 0, 15.33333, 3], "texture": "#0"},
+				"up": {"uv": [8.66667, 0, 14, 5], "texture": "#0"},
+				"down": {"uv": [8.66667, 5, 14, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 0, 1],
+			"to": [8, 2, 5],
+			"faces": {
+				"north": {"uv": [7.33333, 10.5, 5.33333, 11.5], "texture": "#0"},
+				"east": {"uv": [7.33333, 10.5, 8.66667, 11.5], "texture": "#0"},
+				"south": {"uv": [5.33333, 10.5, 7.33333, 11.5], "texture": "#0"},
+				"west": {"uv": [7.33333, 10.5, 8.66667, 11.5], "texture": "#0"},
+				"up": {"uv": [5.33333, 6.5, 7.33333, 8.5], "texture": "#0"},
+				"down": {"uv": [5.33333, 8.5, 7.33333, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0.075, 2],
+			"to": [14, 0.075, 6],
+			"faces": {
+				"north": {"uv": [7.33333, 10.5, 5.33333, 11.5], "texture": "#0"},
+				"east": {"uv": [7.33333, 10.5, 8.66667, 11.5], "texture": "#0"},
+				"south": {"uv": [5.33333, 10.5, 7.33333, 11.5], "texture": "#0"},
+				"west": {"uv": [7.33333, 10.5, 8.66667, 11.5], "texture": "#0"},
+				"up": {"uv": [2, 15, 0, 13], "texture": "#0"},
+				"down": {"uv": [2, 13, 0, 15], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [64, 0, 0],
+			"translation": [-6, 4.25, -0.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [65, 0, 0],
+			"translation": [-6, 4.25, -0.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [148.21, 63.86, -145.37],
+			"translation": [7.5, -2.75, -3.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [148.21, 63.86, -145.37],
+			"translation": [7.5, -2.75, -3.25]
+		},
+		"ground": {
+			"translation": [0, 2.5, -2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [-164.07, 29.07, 171.81],
+			"translation": [-1.75, 0.75, 0]
+		},
+		"head": {
+			"translation": [0, 19.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.01],
+			"scale": [2.01, 2.01, 2.01]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}
